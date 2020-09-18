@@ -25,6 +25,7 @@
     - `https://nid.naver.com/login/privacyQR`
   - 내가 만약 카카오 체크인을 사용한다면:
     - `kakaotalk://con/web?url=https://accounts.kakao.com/qr_check_in`
+
 <img src="covid-19/a07.png" width="400px"> <img src="covid-19/a08.png" width="400px">
 
 8. `Covid-19 QR` Shortcut 이 등록된 것을 확인하고 종료합니다.
