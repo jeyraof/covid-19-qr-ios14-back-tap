@@ -75,3 +75,9 @@
 아무곳에서나 단말기의 뒷부분을 천천히 더블탭 혹은 트리플탭 하면 실행됩니다.
 
 <img src="images/result.gif" width="400px">
+
+
+## 미리 만들어진 Shortcuts
+
+- 카카오 숏컷 https://www.icloud.com/shortcuts/7ac4005cd6774196b12e11eaf977903f
+- 네이버 숏컷 https://www.icloud.com/shortcuts/dc2c504030b54d9d8940dc5b667d355f
