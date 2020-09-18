@@ -35,27 +35,28 @@
 ## Back tap 등록
 
 1. `Settings` 앱을 실행합니다.
-<img src="images/a00.png" width="400px">
+<img src="images/b00.png" width="400px">
 
 2. `Accessibility` 를 선택합니다.
-<img src="images/a01.png" width="400px">
+<img src="images/b01.png" width="400px">
 
 3. `Touch` 를 선택합니다.
-<img src="images/a02.png" width="400px">
+<img src="images/b02.png" width="400px">
 
 4. `Back Tap` 을 선택합니다.
-<img src="images/a03.png" width="400px">
+<img src="images/b03.png" width="400px">
 
 5. 선호에 따라 `Double Tap` 혹은 `Triple Tap` 을 선택합니다.
-<img src="images/a04.png" width="400px">
+<img src="images/b04.png" width="400px">
 
 6. 목록의 하단에서 위에서 생성한 `Covid-19 QR` 을 찾아 선택합니다.
-<img src="images/a05.png" width="400px">
+<img src="images/b05.png" width="400px">
 
 7. 선택한 메뉴에 `Covid-19 QR` 이 설정되었는지 확인합니다.
-<img src="images/a06.png" width="400px">
+<img src="images/b06.png" width="400px">
 
 
 ## 사용
 
 아무곳에서나 단말기의 뒷부분을 천천히 더블탭 혹은 트리플탭 하면 실행됩니다.
+<img src="images/result.gif" width="400px">
